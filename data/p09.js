@@ -116,16 +116,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'species', pos: 'n.', lvl: 'B2', cn: '物种（单复数同形）', q: 'the three species of zebra' },
-    { w: 'aggressive', pos: 'adj.', lvl: 'B2', cn: '好斗的；有攻击性的', q: 'zebras are naturally more aggressive' },
-    { w: 'extensively', pos: 'adv.', lvl: 'C1', cn: '广泛地；大量地', q: 'he had studied zebras extensively in Tanzania' },
-    { w: 'conservation', pos: 'n.', lvl: 'B2', cn: '保护（野生动植物）', q: 'part of a wildlife conservation programme' },
-    { w: 'domestic', pos: 'adj.', lvl: 'C1', cn: '家养的；驯养的', q: 'a group of domestic horses' },
-    { w: 'welfare', pos: 'n.', lvl: 'C1', cn: '福利；福祉', q: 'painting the cows improves their welfare' },
-    { w: 'technician', pos: 'n.', lvl: 'C1', cn: '技术员', q: 'a former biology technician' },
-    { w: 'fascinated', pos: 'adj.', lvl: 'C1', cn: '着迷的', q: 'had been fascinated by zebras' },
-    { w: 'remarkable', pos: 'adj.', lvl: 'C1', cn: '引人注目的；不寻常的', q: 'I found remarkable' },
-    { w: 'astonishingly', pos: 'adv.', lvl: 'C1', cn: '令人惊讶地', q: 'astonishingly, zebras actually sweat' }
+    { w: 'species', ipa: '/ˈspiːʃiːz/', pos: 'n.', lvl: 'B2', cn: '物种（单复数同形）', q: 'the three species of zebra' },
+    { w: 'aggressive', ipa: '/əˈɡresɪv/', pos: 'adj.', lvl: 'B2', cn: '好斗的；有攻击性的', q: 'zebras are naturally more aggressive' },
+    { w: 'extensively', ipa: '/ɪkˈstensɪvli/', pos: 'adv.', lvl: 'C1', cn: '广泛地；大量地', q: 'he had studied zebras extensively in Tanzania' },
+    { w: 'conservation', ipa: '/ˌkɒnsəˈveɪʃn/', pos: 'n.', lvl: 'B2', cn: '保护（野生动植物）', q: 'part of a wildlife conservation programme' },
+    { w: 'domestic', ipa: '/dəˈmestɪk/', pos: 'adj.', lvl: 'C1', cn: '家养的；驯养的', q: 'a group of domestic horses' },
+    { w: 'welfare', ipa: '/ˈwelfeə/', pos: 'n.', lvl: 'C1', cn: '福利；福祉', q: 'painting the cows improves their welfare' },
+    { w: 'technician', ipa: '/tekˈnɪʃn/', pos: 'n.', lvl: 'C1', cn: '技术员', q: 'a former biology technician' },
+    { w: 'fascinated', ipa: '/ˈfæsɪneɪtɪd/', pos: 'adj.', lvl: 'C1', cn: '着迷的', q: 'had been fascinated by zebras' },
+    { w: 'remarkable', ipa: '/rɪˈmɑːkəbl/', pos: 'adj.', lvl: 'C1', cn: '引人注目的；不寻常的', q: 'I found remarkable' },
+    { w: 'astonishingly', ipa: '/əˈstɒnɪʃɪŋli/', pos: 'adv.', lvl: 'C1', cn: '令人惊讶地', q: 'astonishingly, zebras actually sweat' }
   ],
 
   syntax: [

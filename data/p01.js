@@ -123,17 +123,17 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'pollinate', pos: 'v.', lvl: 'C1', cn: '给……授粉', q: 'have to be pollinated' },
-    { w: 'fertilise', pos: 'v.', lvl: 'C1', cn: '使受精；施肥', q: 'or fertilised' },
-    { w: 'productive', pos: 'adj.', lvl: 'B2', cn: '有产出的；多产的', q: 'trees take years to become productive' },
-    { w: 'substance', pos: 'n.', lvl: 'B2', cn: '物质', q: 'a milky-white substance' },
-    { w: 'labour intensive', pos: 'adj.', lvl: 'C1', cn: '劳动密集的', q: 'Cacao harvesting is labour intensive' },
-    { w: 'harvest', pos: 'v.', lvl: 'B2', cn: '收获；采摘', q: 'Pods are typically harvested twice a year' },
-    { w: 'bitter', pos: 'adj.', lvl: 'B2', cn: '苦的', q: 'rather bitter in its natural state' },
-    { w: 'edible', pos: 'adj.', lvl: 'C1', cn: '可食用的', q: 'keep your chocolate edible for up to a year' },
-    { w: 'texture', pos: 'n.', lvl: 'C1', cn: '质地；口感', q: 'to help to preserve its texture' },
-    { w: 'air-tight', pos: 'adj.', lvl: 'C1', cn: '密封的', q: 'kept in an air-tight container' },
-    { w: 'decade', pos: 'n.', lvl: 'B2', cn: '十年', q: 'Cacao trees live for decades' }
+    { w: 'pollinate', ipa: '/ˈpɒləneɪt/', pos: 'v.', lvl: 'C1', cn: '给……授粉', q: 'have to be pollinated' },
+    { w: 'fertilise', ipa: '/ˈfɜːtəlaɪz/', pos: 'v.', lvl: 'C1', cn: '使受精；施肥', q: 'or fertilised' },
+    { w: 'productive', ipa: '/prəˈdʌktɪv/', pos: 'adj.', lvl: 'B2', cn: '有产出的；多产的', q: 'trees take years to become productive' },
+    { w: 'substance', ipa: '/ˈsʌbstəns/', pos: 'n.', lvl: 'B2', cn: '物质', q: 'a milky-white substance' },
+    { w: 'labour intensive', ipa: '/ˈleɪbər ɪnˈtensɪv/', pos: 'adj.', lvl: 'C1', cn: '劳动密集的', q: 'Cacao harvesting is labour intensive' },
+    { w: 'harvest', ipa: '/ˈhɑːvɪst/', pos: 'v.', lvl: 'B2', cn: '收获；采摘', q: 'Pods are typically harvested twice a year' },
+    { w: 'bitter', ipa: '/ˈbɪtə/', pos: 'adj.', lvl: 'B2', cn: '苦的', q: 'rather bitter in its natural state' },
+    { w: 'edible', ipa: '/ˈedəbl/', pos: 'adj.', lvl: 'C1', cn: '可食用的', q: 'keep your chocolate edible for up to a year' },
+    { w: 'texture', ipa: '/ˈtekstʃə/', pos: 'n.', lvl: 'C1', cn: '质地；口感', q: 'to help to preserve its texture' },
+    { w: 'air-tight', ipa: '/ˈeətaɪt/', pos: 'adj.', lvl: 'C1', cn: '密封的', q: 'kept in an air-tight container' },
+    { w: 'decade', ipa: '/ˈdekeɪd/', pos: 'n.', lvl: 'B2', cn: '十年', q: 'Cacao trees live for decades' }
   ],
 
   syntax: [

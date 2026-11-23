@@ -116,18 +116,18 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'rewarding', pos: 'adj.', lvl: 'C1', cn: '有回报的；值得的', def: 'making you feel satisfied because you are doing something useful', col: 'a ~ career / job', q: 'a hugely rewarding career' },
-    { w: 'aspect', pos: 'n.', lvl: 'B2', cn: '方面', def: 'one part of a situation or subject', col: 'every ~ of sth', q: 'she enjoys all aspects of it' },
-    { w: 'highlight', pos: 'n.', lvl: 'C1', cn: '最精彩的部分；亮点', def: 'the best or most exciting part of something', col: 'the ~ of sth', q: 'what the highlights are for her' },
-    { w: 'observe', pos: 'v.', lvl: 'B2', cn: '观察；注视', def: 'to watch something carefully', col: '~ animals / behaviour', q: 'spend time observing a particular group' },
-    { w: 'vital', pos: 'adj.', lvl: 'B2', cn: '至关重要的', def: 'extremely important', col: 'it is ~ to do sth', q: 'attention to detail is vital' },
-    { w: 'alter', pos: 'v.', lvl: 'C1', cn: '改变；更改', def: 'to change something slightly', col: '~ the position of sth', q: 'Altering the position of objects' },
-    { w: 'endangered', pos: 'adj.', lvl: 'C1', cn: '濒危的', def: 'at risk of no longer existing', col: '~ species / animals', q: 'several endangered species' },
-    { w: 'extinction', pos: 'n.', lvl: 'C1', cn: '灭绝', def: 'when a species no longer exists', col: 'in danger of ~', q: 'in danger of extinction' },
-    { w: 'survey', pos: 'v.', lvl: 'C1', cn: '调查；勘测', def: 'to examine and record information about something', col: '~ the population', q: 'when they were last surveyed' },
-    { w: 'qualification', pos: 'n.', lvl: 'C1', cn: '资格证书；学历', def: 'an exam you have passed or a course you have finished', col: 'get a ~ in sth', q: 'get a qualification in a subject' },
-    { w: 'vacancy', pos: 'n.', lvl: 'C1', cn: '空缺职位', def: 'a job that is available for someone to do', col: 'a ~ comes up', q: 'when a vacancy came up' },
-    { w: 'willingness', pos: 'n.', lvl: 'C1', cn: '意愿；乐意', def: 'the quality of being happy to do something', col: '~ to learn / help', q: 'you have the willingness to learn' }
+    { w: 'rewarding', ipa: '/rɪˈwɔːdɪŋ/', pos: 'adj.', lvl: 'C1', cn: '有回报的；值得的', def: 'making you feel satisfied because you are doing something useful', col: 'a ~ career / job', q: 'a hugely rewarding career' },
+    { w: 'aspect', ipa: '/ˈæspekt/', pos: 'n.', lvl: 'B2', cn: '方面', def: 'one part of a situation or subject', col: 'every ~ of sth', q: 'she enjoys all aspects of it' },
+    { w: 'highlight', ipa: '/ˈhaɪlaɪt/', pos: 'n.', lvl: 'C1', cn: '最精彩的部分；亮点', def: 'the best or most exciting part of something', col: 'the ~ of sth', q: 'what the highlights are for her' },
+    { w: 'observe', ipa: '/əbˈzɜːv/', pos: 'v.', lvl: 'B2', cn: '观察；注视', def: 'to watch something carefully', col: '~ animals / behaviour', q: 'spend time observing a particular group' },
+    { w: 'vital', ipa: '/ˈvaɪtl/', pos: 'adj.', lvl: 'B2', cn: '至关重要的', def: 'extremely important', col: 'it is ~ to do sth', q: 'attention to detail is vital' },
+    { w: 'alter', ipa: '/ˈɔːltə/', pos: 'v.', lvl: 'C1', cn: '改变；更改', def: 'to change something slightly', col: '~ the position of sth', q: 'Altering the position of objects' },
+    { w: 'endangered', ipa: '/ɪnˈdeɪndʒəd/', pos: 'adj.', lvl: 'C1', cn: '濒危的', def: 'at risk of no longer existing', col: '~ species / animals', q: 'several endangered species' },
+    { w: 'extinction', ipa: '/ɪkˈstɪŋkʃn/', pos: 'n.', lvl: 'C1', cn: '灭绝', def: 'when a species no longer exists', col: 'in danger of ~', q: 'in danger of extinction' },
+    { w: 'survey', ipa: '/ˈsɜːveɪ/', pos: 'v.', lvl: 'C1', cn: '调查；勘测', def: 'to examine and record information about something', col: '~ the population', q: 'when they were last surveyed' },
+    { w: 'qualification', ipa: '/ˌkwɒlɪfɪˈkeɪʃn/', pos: 'n.', lvl: 'C1', cn: '资格证书；学历', def: 'an exam you have passed or a course you have finished', col: 'get a ~ in sth', q: 'get a qualification in a subject' },
+    { w: 'vacancy', ipa: '/ˈveɪkənsi/', pos: 'n.', lvl: 'C1', cn: '空缺职位', def: 'a job that is available for someone to do', col: 'a ~ comes up', q: 'when a vacancy came up' },
+    { w: 'willingness', ipa: '/ˈwɪlɪŋnəs/', pos: 'n.', lvl: 'C1', cn: '意愿；乐意', def: 'the quality of being happy to do something', col: '~ to learn / help', q: 'you have the willingness to learn' }
   ],
 
   syntax: [

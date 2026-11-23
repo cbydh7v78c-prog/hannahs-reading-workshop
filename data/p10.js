@@ -122,18 +122,18 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'competitor', pos: 'n.', lvl: 'B2', cn: '参赛者；竞争对手', def: 'a person who takes part in a competition', col: 'a strong / young ~', q: 'she became the youngest competitor' },
-    { w: 'invest in', pos: 'phr. v.', lvl: 'C1', cn: '在……上投入（金钱/时间）', def: 'to put money or effort into something to get a benefit', col: '~ quality equipment', q: 'she needed to invest in quality equipment' },
-    { w: 'quality', pos: 'adj.', lvl: 'B2', cn: '优质的（作定语）', def: 'of a high standard', col: '~ equipment / ~ products', q: 'invest in quality equipment' },
-    { w: 'represent', pos: 'v.', lvl: 'C1', cn: '代表（国家/队伍）', def: 'to act or speak officially for a group or country', col: '~ one’s country', q: 'which country to represent' },
-    { w: 'logical', pos: 'adj.', lvl: 'C1', cn: '合乎逻辑的；合理的', def: 'reasonable and based on clear thinking', col: 'a ~ choice / decision', q: 'would be more logical' },
-    { w: 'competitive', pos: 'adj.', lvl: 'C1', cn: '好胜的；竞争性的', def: 'wanting very much to win or be more successful than others', col: 'naturally ~ / ~ spirit', q: 'she’s naturally competitive' },
-    { w: 'chill out', pos: 'phr. v.', lvl: 'C1', cn: '放松；休息', def: 'to relax completely', col: '~ after work', q: 'when she wants to chill out' },
-    { w: 'concentrate', pos: 'v.', lvl: 'B2', cn: '集中注意力', def: 'to give all your attention to one thing', col: '~ on sth', q: 'concentrate on something other than sport' },
-    { w: 'take up', pos: 'phr. v.', lvl: 'C1', cn: '开始从事（爱好）', def: 'to start doing an activity regularly', col: '~ photography / a hobby', q: 'She’s recently taken up photography' },
-    { w: 'publish', pos: 'v.', lvl: 'B2', cn: '发表；出版', def: 'to print something so the public can read it', col: '~ an interview / a book', q: 'which are regularly published' },
-    { w: 'determined', pos: 'adj.', lvl: 'B2', cn: '决心已定的', def: 'having a strong wish to do something and not letting anything stop you', col: 'be ~ to do sth', q: 'One thing she’s determined to do' },
-    { w: 'make up one’s mind', pos: 'idiom', lvl: 'C1', cn: '下定决心；拿定主意', def: 'to decide', col: '~ about sth', q: 'she’s not made her mind up about yet' }
+    { w: 'competitor', ipa: '/kəmˈpetɪtə/', pos: 'n.', lvl: 'B2', cn: '参赛者；竞争对手', def: 'a person who takes part in a competition', col: 'a strong / young ~', q: 'she became the youngest competitor' },
+    { w: 'invest in', ipa: '/ɪnˈvest ɪn/', pos: 'phr. v.', lvl: 'C1', cn: '在……上投入（金钱/时间）', def: 'to put money or effort into something to get a benefit', col: '~ quality equipment', q: 'she needed to invest in quality equipment' },
+    { w: 'quality', ipa: '/ˈkwɒləti/', pos: 'adj.', lvl: 'B2', cn: '优质的（作定语）', def: 'of a high standard', col: '~ equipment / ~ products', q: 'invest in quality equipment' },
+    { w: 'represent', ipa: '/ˌreprɪˈzent/', pos: 'v.', lvl: 'C1', cn: '代表（国家/队伍）', def: 'to act or speak officially for a group or country', col: '~ one’s country', q: 'which country to represent' },
+    { w: 'logical', ipa: '/ˈlɒdʒɪkl/', pos: 'adj.', lvl: 'C1', cn: '合乎逻辑的；合理的', def: 'reasonable and based on clear thinking', col: 'a ~ choice / decision', q: 'would be more logical' },
+    { w: 'competitive', ipa: '/kəmˈpetətɪv/', pos: 'adj.', lvl: 'C1', cn: '好胜的；竞争性的', def: 'wanting very much to win or be more successful than others', col: 'naturally ~ / ~ spirit', q: 'she’s naturally competitive' },
+    { w: 'chill out', ipa: '/ˌtʃɪl ˈaʊt/', pos: 'phr. v.', lvl: 'C1', cn: '放松；休息', def: 'to relax completely', col: '~ after work', q: 'when she wants to chill out' },
+    { w: 'concentrate', ipa: '/ˈkɒnsntreɪt/', pos: 'v.', lvl: 'B2', cn: '集中注意力', def: 'to give all your attention to one thing', col: '~ on sth', q: 'concentrate on something other than sport' },
+    { w: 'take up', ipa: '/ˌteɪk ˈʌp/', pos: 'phr. v.', lvl: 'C1', cn: '开始从事（爱好）', def: 'to start doing an activity regularly', col: '~ photography / a hobby', q: 'She’s recently taken up photography' },
+    { w: 'publish', ipa: '/ˈpʌblɪʃ/', pos: 'v.', lvl: 'B2', cn: '发表；出版', def: 'to print something so the public can read it', col: '~ an interview / a book', q: 'which are regularly published' },
+    { w: 'determined', ipa: '/dɪˈtɜːmɪnd/', pos: 'adj.', lvl: 'B2', cn: '决心已定的', def: 'having a strong wish to do something and not letting anything stop you', col: 'be ~ to do sth', q: 'One thing she’s determined to do' },
+    { w: 'make up one’s mind', ipa: '/ˌmeɪk ʌp wʌnz ˈmaɪnd/', pos: 'idiom', lvl: 'C1', cn: '下定决心；拿定主意', def: 'to decide', col: '~ about sth', q: 'she’s not made her mind up about yet' }
   ],
 
   syntax: [

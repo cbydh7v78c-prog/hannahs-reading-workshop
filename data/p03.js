@@ -124,16 +124,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'remote', pos: 'adj.', lvl: 'B2', cn: '偏远的；人迹罕至的', q: 'a remote beach near the city of Perth' },
-    { w: 'damp', pos: 'adj.', lvl: 'C1', cn: '潮湿的（不滴水）', q: 'the paper was still damp' },
-    { w: 'tempted', pos: 'adj.', lvl: 'C1', cn: '很想（做某事）的', q: 'Tonya was tempted to unroll it' },
-    { w: 'astonished', pos: 'adj.', lvl: 'B2', cn: '十分惊讶的', q: 'Tonya was astonished to see' },
-    { w: 'exposure', pos: 'n.', lvl: 'C1', cn: '暴露（于某种环境）', q: 'avoided exposure to the weather' },
-    { w: 'genuine', pos: 'adj.', lvl: 'C1', cn: '真的；非伪造的', q: 'whether the form was genuine' },
-    { w: 'correspond', pos: 'v.', lvl: 'C1', cn: '相符；一致', q: 'this corresponded exactly with the location' },
-    { w: 'identical', pos: 'adj.', lvl: 'B2', cn: '完全相同的', q: 'was identical to the handwriting on the form' },
-    { w: 'current', pos: 'n.', lvl: 'C1', cn: '水流；洋流', q: 'the movement of ocean currents' },
-    { w: 'embassy', pos: 'n.', lvl: 'B2', cn: '大使馆', q: 'contact the nearest German embassy' }
+    { w: 'remote', ipa: '/rɪˈməʊt/', pos: 'adj.', lvl: 'B2', cn: '偏远的；人迹罕至的', q: 'a remote beach near the city of Perth' },
+    { w: 'damp', ipa: '/dæmp/', pos: 'adj.', lvl: 'C1', cn: '潮湿的（不滴水）', q: 'the paper was still damp' },
+    { w: 'tempted', ipa: '/ˈtemptɪd/', pos: 'adj.', lvl: 'C1', cn: '很想（做某事）的', q: 'Tonya was tempted to unroll it' },
+    { w: 'astonished', ipa: '/əˈstɒnɪʃt/', pos: 'adj.', lvl: 'B2', cn: '十分惊讶的', q: 'Tonya was astonished to see' },
+    { w: 'exposure', ipa: '/ɪkˈspəʊʒə/', pos: 'n.', lvl: 'C1', cn: '暴露（于某种环境）', q: 'avoided exposure to the weather' },
+    { w: 'genuine', ipa: '/ˈdʒenjuɪn/', pos: 'adj.', lvl: 'C1', cn: '真的；非伪造的', q: 'whether the form was genuine' },
+    { w: 'correspond', ipa: '/ˌkɒrəˈspɒnd/', pos: 'v.', lvl: 'C1', cn: '相符；一致', q: 'this corresponded exactly with the location' },
+    { w: 'identical', ipa: '/aɪˈdentɪkl/', pos: 'adj.', lvl: 'B2', cn: '完全相同的', q: 'was identical to the handwriting on the form' },
+    { w: 'current', ipa: '/ˈkʌrənt/', pos: 'n.', lvl: 'C1', cn: '水流；洋流', q: 'the movement of ocean currents' },
+    { w: 'embassy', ipa: '/ˈembəsi/', pos: 'n.', lvl: 'B2', cn: '大使馆', q: 'contact the nearest German embassy' }
   ],
 
   syntax: [

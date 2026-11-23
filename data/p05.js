@@ -123,16 +123,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'entirely', pos: 'adv.', lvl: 'B2', cn: '完全地；全部地', q: 'a room built entirely of ice' },
-    { w: 'spectacular', pos: 'adj.', lvl: 'B2', cn: '壮观的；令人惊叹的', q: 'surrounded by spectacular ice sculptures' },
-    { w: 'accommodation', pos: 'n.', lvl: 'B2', cn: '住宿；住处', q: 'as much on beautiful art as it is on accommodation' },
-    { w: 'adventurous', pos: 'adj.', lvl: 'C1', cn: '爱冒险的', q: 'for those who are more adventurous' },
-    { w: 'plentiful', pos: 'adj.', lvl: 'C1', cn: '充足的；大量的', q: 'ice is in plentiful supply' },
-    { w: 'construct', pos: 'v.', lvl: 'C1', cn: '建造；构筑', q: 'how to construct buildings out of ice' },
-    { w: 'exhibition', pos: 'n.', lvl: 'B2', cn: '展览；展览厅', q: 'a large exhibition hall' },
-    { w: 'thicken', pos: 'v.', lvl: 'C1', cn: '变厚；变浓', q: 'so that the ice thickens' },
-    { w: 'destination', pos: 'n.', lvl: 'B2', cn: '目的地；旅游胜地', q: 'the most successful tourist destinations' },
-    { w: 'thermal', pos: 'adj.', lvl: 'C1', cn: '保暖的；热的', q: 'have thermal sleeping bags' }
+    { w: 'entirely', ipa: '/ɪnˈtaɪəli/', pos: 'adv.', lvl: 'B2', cn: '完全地；全部地', q: 'a room built entirely of ice' },
+    { w: 'spectacular', ipa: '/spekˈtækjələ/', pos: 'adj.', lvl: 'B2', cn: '壮观的；令人惊叹的', q: 'surrounded by spectacular ice sculptures' },
+    { w: 'accommodation', ipa: '/əˌkɒməˈdeɪʃn/', pos: 'n.', lvl: 'B2', cn: '住宿；住处', q: 'as much on beautiful art as it is on accommodation' },
+    { w: 'adventurous', ipa: '/ədˈventʃərəs/', pos: 'adj.', lvl: 'C1', cn: '爱冒险的', q: 'for those who are more adventurous' },
+    { w: 'plentiful', ipa: '/ˈplentɪfl/', pos: 'adj.', lvl: 'C1', cn: '充足的；大量的', q: 'ice is in plentiful supply' },
+    { w: 'construct', ipa: '/kənˈstrʌkt/', pos: 'v.', lvl: 'C1', cn: '建造；构筑', q: 'how to construct buildings out of ice' },
+    { w: 'exhibition', ipa: '/ˌeksɪˈbɪʃn/', pos: 'n.', lvl: 'B2', cn: '展览；展览厅', q: 'a large exhibition hall' },
+    { w: 'thicken', ipa: '/ˈθɪkən/', pos: 'v.', lvl: 'C1', cn: '变厚；变浓', q: 'so that the ice thickens' },
+    { w: 'destination', ipa: '/ˌdestɪˈneɪʃn/', pos: 'n.', lvl: 'B2', cn: '目的地；旅游胜地', q: 'the most successful tourist destinations' },
+    { w: 'thermal', ipa: '/ˈθɜːml/', pos: 'adj.', lvl: 'C1', cn: '保暖的；热的', q: 'have thermal sleeping bags' }
   ],
 
   syntax: [

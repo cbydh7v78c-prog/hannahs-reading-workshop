@@ -117,16 +117,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'prehistoric', pos: 'adj.', lvl: 'B2', cn: '史前的', q: 'thousands of these prehistoric paintings' },
-    { w: 'abstract', pos: 'adj.', lvl: 'C1', cn: '抽象的', q: 'animals and abstract patterns' },
-    { w: 'archaeologist', pos: 'n.', lvl: 'C1', cn: '考古学家', q: 'I had joined some archaeologists' },
-    { w: 'estimate', pos: 'v.', lvl: 'B2', cn: '估计；估算', q: 'how to estimate the age of these tools' },
-    { w: 'extinct', pos: 'adj.', lvl: 'C1', cn: '已灭绝的', q: 'Some of the extinct animals painted on the rocks' },
-    { w: 'considerably', pos: 'adv.', lvl: 'C1', cn: '相当大的程度上', q: 'has changed considerably' },
-    { w: 'accessible', pos: 'adj.', lvl: 'C1', cn: '可到达的；易接近的', q: 'is not very accessible' },
-    { w: 'fascinating', pos: 'adj.', lvl: 'B2', cn: '极有吸引力的', q: 'it was fascinating' },
-    { w: 'realistic', pos: 'adj.', lvl: 'C1', cn: '逼真的；写实的', q: 'how realistic the images are' },
-    { w: 'man-made', pos: 'adj.', lvl: 'C1', cn: '人造的', q: 'large man-made structures' }
+    { w: 'prehistoric', ipa: '/ˌpriːhɪˈstɒrɪk/', pos: 'adj.', lvl: 'B2', cn: '史前的', q: 'thousands of these prehistoric paintings' },
+    { w: 'abstract', ipa: '/ˈæbstrækt/', pos: 'adj.', lvl: 'C1', cn: '抽象的', q: 'animals and abstract patterns' },
+    { w: 'archaeologist', ipa: '/ˌɑːkiˈɒlədʒɪst/', pos: 'n.', lvl: 'C1', cn: '考古学家', q: 'I had joined some archaeologists' },
+    { w: 'estimate', ipa: '/ˈestɪmeɪt/', pos: 'v.', lvl: 'B2', cn: '估计；估算', q: 'how to estimate the age of these tools' },
+    { w: 'extinct', ipa: '/ɪkˈstɪŋkt/', pos: 'adj.', lvl: 'C1', cn: '已灭绝的', q: 'Some of the extinct animals painted on the rocks' },
+    { w: 'considerably', ipa: '/kənˈsɪdərəbli/', pos: 'adv.', lvl: 'C1', cn: '相当大的程度上', q: 'has changed considerably' },
+    { w: 'accessible', ipa: '/əkˈsesəbl/', pos: 'adj.', lvl: 'C1', cn: '可到达的；易接近的', q: 'is not very accessible' },
+    { w: 'fascinating', ipa: '/ˈfæsɪneɪtɪŋ/', pos: 'adj.', lvl: 'B2', cn: '极有吸引力的', q: 'it was fascinating' },
+    { w: 'realistic', ipa: '/ˌrɪəˈlɪstɪk/', pos: 'adj.', lvl: 'C1', cn: '逼真的；写实的', q: 'how realistic the images are' },
+    { w: 'man-made', ipa: '/ˌmænˈmeɪd/', pos: 'adj.', lvl: 'C1', cn: '人造的', q: 'large man-made structures' }
   ],
 
   syntax: [

@@ -125,16 +125,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'rodent', pos: 'n.', lvl: 'C1', cn: '啮齿动物', q: 'a group of animals called rodents' },
-    { w: 'dam', pos: 'n.', lvl: 'B2', cn: '水坝；拦河坝', q: 'build structures called dams' },
-    { w: 'shelter', pos: 'n.', lvl: 'B2', cn: '庇护所；遮蔽处', q: 'provide them with shelter' },
-    { w: 'decline', pos: 'n.', lvl: 'C1', cn: '减少；衰退', q: 'the main reason for the beavers’ decline' },
-    { w: 'reintroduce', pos: 'v.', lvl: 'C1', cn: '重新引入；再引进', q: 'They were reintroduced into 25 European countries' },
-    { w: 'submit', pos: 'v.', lvl: 'C1', cn: '提交（申请、提案）', q: 'a proposal to submit to the Scottish parliament' },
-    { w: 'objection', pos: 'n.', lvl: 'C1', cn: '反对意见', q: 'objections from the region’s farmers' },
-    { w: 'conservation', pos: 'n.', lvl: 'B2', cn: '保护（动植物、环境）', q: 'proposals regarding conservation of the species' },
-    { w: 'territory', pos: 'n.', lvl: 'C1', cn: '领地；地域', q: 'move to new territories' },
-    { w: 'extraordinary', pos: 'adj.', lvl: 'B2', cn: '非凡的；特别的', q: 'their extraordinary ability to change the environments' }
+    { w: 'rodent', ipa: '/ˈrəʊdnt/', pos: 'n.', lvl: 'C1', cn: '啮齿动物', q: 'a group of animals called rodents' },
+    { w: 'dam', ipa: '/dæm/', pos: 'n.', lvl: 'B2', cn: '水坝；拦河坝', q: 'build structures called dams' },
+    { w: 'shelter', ipa: '/ˈʃeltə/', pos: 'n.', lvl: 'B2', cn: '庇护所；遮蔽处', q: 'provide them with shelter' },
+    { w: 'decline', ipa: '/dɪˈklaɪn/', pos: 'n.', lvl: 'C1', cn: '减少；衰退', q: 'the main reason for the beavers’ decline' },
+    { w: 'reintroduce', ipa: '/ˌriːɪntrəˈdjuːs/', pos: 'v.', lvl: 'C1', cn: '重新引入；再引进', q: 'They were reintroduced into 25 European countries' },
+    { w: 'submit', ipa: '/səbˈmɪt/', pos: 'v.', lvl: 'C1', cn: '提交（申请、提案）', q: 'a proposal to submit to the Scottish parliament' },
+    { w: 'objection', ipa: '/əbˈdʒekʃn/', pos: 'n.', lvl: 'C1', cn: '反对意见', q: 'objections from the region’s farmers' },
+    { w: 'conservation', ipa: '/ˌkɒnsəˈveɪʃn/', pos: 'n.', lvl: 'B2', cn: '保护（动植物、环境）', q: 'proposals regarding conservation of the species' },
+    { w: 'territory', ipa: '/ˈterətri/', pos: 'n.', lvl: 'C1', cn: '领地；地域', q: 'move to new territories' },
+    { w: 'extraordinary', ipa: '/ɪkˈstrɔːdnri/', pos: 'adj.', lvl: 'B2', cn: '非凡的；特别的', q: 'their extraordinary ability to change the environments' }
   ],
 
   syntax: [

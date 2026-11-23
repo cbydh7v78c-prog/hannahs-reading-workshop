@@ -118,16 +118,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'approximately', pos: 'adv.', lvl: 'B2', cn: '大约；大概', q: 'it lasted approximately 150 million years' },
-    { w: 'destruction', pos: 'n.', lvl: 'C1', cn: '毁灭；破坏', q: 'massive environmental destruction' },
-    { w: 'fossil', pos: 'n.', lvl: 'B2', cn: '化石', q: 'searching for fossils' },
-    { w: 'previously', pos: 'adv.', lvl: 'B2', cn: '先前；以前', q: '5 previously unknown dinosaur species' },
-    { w: 'accurate', pos: 'adj.', lvl: 'B2', cn: '准确的；符合事实的', q: 'they’re not always very accurate' },
-    { w: 'assume', pos: 'v.', lvl: 'C1', cn: '假定；想当然地认为', q: 'what people once assumed they were like' },
-    { w: 'scaly', pos: 'adj.', lvl: 'C1', cn: '有鳞的', q: 'have scaly skin, like crocodiles' },
-    { w: 'significant', pos: 'adj.', lvl: 'B2', cn: '重大的；显著的', q: 'make significant advances in dinosaur studies' },
-    { w: 'interact', pos: 'v.', lvl: 'C1', cn: '互动；相互作用', q: 'how certain types of dinosaur interacted with each other' },
-    { w: 'essential', pos: 'adj.', lvl: 'B2', cn: '必不可少的', q: 'as it’s so essential in research' }
+    { w: 'approximately', ipa: '/əˈprɒksɪmətli/', pos: 'adv.', lvl: 'B2', cn: '大约；大概', q: 'it lasted approximately 150 million years' },
+    { w: 'destruction', ipa: '/dɪˈstrʌkʃn/', pos: 'n.', lvl: 'C1', cn: '毁灭；破坏', q: 'massive environmental destruction' },
+    { w: 'fossil', ipa: '/ˈfɒsl/', pos: 'n.', lvl: 'B2', cn: '化石', q: 'searching for fossils' },
+    { w: 'previously', ipa: '/ˈpriːviəsli/', pos: 'adv.', lvl: 'B2', cn: '先前；以前', q: '5 previously unknown dinosaur species' },
+    { w: 'accurate', ipa: '/ˈækjərət/', pos: 'adj.', lvl: 'B2', cn: '准确的；符合事实的', q: 'they’re not always very accurate' },
+    { w: 'assume', ipa: '/əˈsjuːm/', pos: 'v.', lvl: 'C1', cn: '假定；想当然地认为', q: 'what people once assumed they were like' },
+    { w: 'scaly', ipa: '/ˈskeɪli/', pos: 'adj.', lvl: 'C1', cn: '有鳞的', q: 'have scaly skin, like crocodiles' },
+    { w: 'significant', ipa: '/sɪɡˈnɪfɪkənt/', pos: 'adj.', lvl: 'B2', cn: '重大的；显著的', q: 'make significant advances in dinosaur studies' },
+    { w: 'interact', ipa: '/ˌɪntərˈækt/', pos: 'v.', lvl: 'C1', cn: '互动；相互作用', q: 'how certain types of dinosaur interacted with each other' },
+    { w: 'essential', ipa: '/ɪˈsenʃl/', pos: 'adj.', lvl: 'B2', cn: '必不可少的', q: 'as it’s so essential in research' }
   ],
 
   syntax: [

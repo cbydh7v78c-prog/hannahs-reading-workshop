@@ -126,16 +126,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'install', pos: 'v.', lvl: 'B2', cn: '安装（设备）', q: 'wanted to install electricity' },
-    { w: 'motivate', pos: 'v.', lvl: 'C1', cn: '促使；激发（某人做某事）', q: 'motivates such a decision' },
-    { w: 'determined', pos: 'adj.', lvl: 'B2', cn: '下定决心的；坚定的', q: 'always determined to do things well' },
-    { w: 'apparently', pos: 'adv.', lvl: 'C1', cn: '表面上；看来', q: 'apparently complex problems' },
-    { w: 'investigate', pos: 'v.', lvl: 'B2', cn: '调查；研究', q: 'the first to fully investigate it' },
-    { w: 'initial', pos: 'adj.', lvl: 'B2', cn: '最初的；开始的', q: 'The initial test was done on popcorn' },
-    { w: 'subsequent', pos: 'adj.', lvl: 'C1', cn: '随后的；接着的', q: 'In a subsequent experiment' },
-    { w: 'domestic', pos: 'adj.', lvl: 'C1', cn: '家用的；家庭的', q: 'for domestic use' },
-    { w: 'afford', pos: 'v.', lvl: 'B2', cn: '买得起；负担得起', q: 'nobody could afford one' },
-    { w: 'amused', pos: 'adj.', lvl: 'C1', cn: '被逗乐的', q: 'was much amused when one of his co-workers' }
+    { w: 'install', ipa: '/ɪnˈstɔːl/', pos: 'v.', lvl: 'B2', cn: '安装（设备）', q: 'wanted to install electricity' },
+    { w: 'motivate', ipa: '/ˈməʊtɪveɪt/', pos: 'v.', lvl: 'C1', cn: '促使；激发（某人做某事）', q: 'motivates such a decision' },
+    { w: 'determined', ipa: '/dɪˈtɜːmɪnd/', pos: 'adj.', lvl: 'B2', cn: '下定决心的；坚定的', q: 'always determined to do things well' },
+    { w: 'apparently', ipa: '/əˈpærəntli/', pos: 'adv.', lvl: 'C1', cn: '表面上；看来', q: 'apparently complex problems' },
+    { w: 'investigate', ipa: '/ɪnˈvestɪɡeɪt/', pos: 'v.', lvl: 'B2', cn: '调查；研究', q: 'the first to fully investigate it' },
+    { w: 'initial', ipa: '/ɪˈnɪʃl/', pos: 'adj.', lvl: 'B2', cn: '最初的；开始的', q: 'The initial test was done on popcorn' },
+    { w: 'subsequent', ipa: '/ˈsʌbsɪkwənt/', pos: 'adj.', lvl: 'C1', cn: '随后的；接着的', q: 'In a subsequent experiment' },
+    { w: 'domestic', ipa: '/dəˈmestɪk/', pos: 'adj.', lvl: 'C1', cn: '家用的；家庭的', q: 'for domestic use' },
+    { w: 'afford', ipa: '/əˈfɔːd/', pos: 'v.', lvl: 'B2', cn: '买得起；负担得起', q: 'nobody could afford one' },
+    { w: 'amused', ipa: '/əˈmjuːzd/', pos: 'adj.', lvl: 'C1', cn: '被逗乐的', q: 'was much amused when one of his co-workers' }
   ],
 
   syntax: [

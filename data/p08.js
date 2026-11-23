@@ -123,16 +123,16 @@ window.PASSAGES.push({
   ],
 
   vocab: [
-    { w: 'tutor', pos: 'n.', lvl: 'B2', cn: '导师；指导教师', q: 'your tutor will show you various pictures' },
-    { w: 'recommend', pos: 'v.', lvl: 'B2', cn: '建议；推荐', q: 'we strongly recommend that you come' },
-    { w: 'technique', pos: 'n.', lvl: 'B2', cn: '技巧；技法', q: 'practise the techniques and skills' },
-    { w: 'session', pos: 'n.', lvl: 'B2', cn: '（一节课/一场活动）时段', q: 'the final session of the day' },
-    { w: 'majority', pos: 'n.', lvl: 'B2', cn: '大多数', q: 'for the majority of the sessions' },
-    { w: 'sign up', pos: 'phr. v.', lvl: 'C1', cn: '报名；注册', q: '16-year-olds can also sign up now' },
-    { w: 'feedback', pos: 'n.', lvl: 'C1', cn: '反馈意见', q: 'give us feedback after their course' },
-    { w: 'confidence', pos: 'n.', lvl: 'B2', cn: '自信', q: 'comment on gaining confidence' },
-    { w: 'presentation', pos: 'n.', lvl: 'C1', cn: '演讲；展示', q: 'improving their presentation skills' },
-    { w: 'registration', pos: 'n.', lvl: 'B2', cn: '注册；报名', q: 'download a registration form' }
+    { w: 'tutor', ipa: '/ˈtjuːtə/', pos: 'n.', lvl: 'B2', cn: '导师；指导教师', q: 'your tutor will show you various pictures' },
+    { w: 'recommend', ipa: '/ˌrekəˈmend/', pos: 'v.', lvl: 'B2', cn: '建议；推荐', q: 'we strongly recommend that you come' },
+    { w: 'technique', ipa: '/tekˈniːk/', pos: 'n.', lvl: 'B2', cn: '技巧；技法', q: 'practise the techniques and skills' },
+    { w: 'session', ipa: '/ˈseʃn/', pos: 'n.', lvl: 'B2', cn: '（一节课/一场活动）时段', q: 'the final session of the day' },
+    { w: 'majority', ipa: '/məˈdʒɒrəti/', pos: 'n.', lvl: 'B2', cn: '大多数', q: 'for the majority of the sessions' },
+    { w: 'sign up', ipa: '/ˌsaɪn ˈʌp/', pos: 'phr. v.', lvl: 'C1', cn: '报名；注册', q: '16-year-olds can also sign up now' },
+    { w: 'feedback', ipa: '/ˈfiːdbæk/', pos: 'n.', lvl: 'C1', cn: '反馈意见', q: 'give us feedback after their course' },
+    { w: 'confidence', ipa: '/ˈkɒnfɪdəns/', pos: 'n.', lvl: 'B2', cn: '自信', q: 'comment on gaining confidence' },
+    { w: 'presentation', ipa: '/ˌpreznˈteɪʃn/', pos: 'n.', lvl: 'C1', cn: '演讲；展示', q: 'improving their presentation skills' },
+    { w: 'registration', ipa: '/ˌredʒɪˈstreɪʃn/', pos: 'n.', lvl: 'B2', cn: '注册；报名', q: 'download a registration form' }
   ],
 
   syntax: [

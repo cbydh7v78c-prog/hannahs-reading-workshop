@@ -9,12 +9,12 @@ window.EXTRA = {
   /* ---------- 1 Chocolate ---------- */
   p01: {
     vocab: [
-      { w: 'typically', pos: 'adv.', lvl: 'C1', cn: '通常；一般说来', def: 'in most cases; usually', col: '~ + 动词', q: 'it has typically been appreciated' },
-      { w: 'moisture', pos: 'n.', lvl: 'C1', cn: '水分；湿气', def: 'small amounts of water present in the air or in something', col: 'year-round ~', q: 'year-round moisture' },
-      { w: 'surround', pos: 'v.', lvl: 'B2', cn: '围绕；包围', def: 'to be or go all around something', col: 'be surrounded by', q: 'are surrounded by a milky-white substance' },
-      { w: 'transport', pos: 'v.', lvl: 'B2', cn: '运输；运送', def: 'to move goods or people from one place to another', col: '~ sth to a place', q: 'carefully transported to factories' },
-      { w: 'process', pos: 'v.', lvl: 'B2', cn: '加工；处理', def: 'to treat food or a material with a special method', col: '~ cocoa / food', q: 'process cocoa powder further' },
-      { w: 'preserve', pos: 'v.', lvl: 'C1', cn: '保存；保鲜', def: 'to keep something in good condition for a long time', col: '~ texture / food', q: 'to help to preserve its texture' }
+      { w: 'typically', ipa: '/ˈtɪpɪkli/', pos: 'adv.', lvl: 'C1', cn: '通常；一般说来', def: 'in most cases; usually', col: '~ + 动词', q: 'it has typically been appreciated' },
+      { w: 'moisture', ipa: '/ˈmɔɪstʃə/', pos: 'n.', lvl: 'C1', cn: '水分；湿气', def: 'small amounts of water present in the air or in something', col: 'year-round ~', q: 'year-round moisture' },
+      { w: 'surround', ipa: '/səˈraʊnd/', pos: 'v.', lvl: 'B2', cn: '围绕；包围', def: 'to be or go all around something', col: 'be surrounded by', q: 'are surrounded by a milky-white substance' },
+      { w: 'transport', ipa: '/ˈtrænspɔːt/', pos: 'v.', lvl: 'B2', cn: '运输；运送', def: 'to move goods or people from one place to another', col: '~ sth to a place', q: 'carefully transported to factories' },
+      { w: 'process', ipa: '/ˈprəʊses/', pos: 'v.', lvl: 'B2', cn: '加工；处理', def: 'to treat food or a material with a special method', col: '~ cocoa / food', q: 'process cocoa powder further' },
+      { w: 'preserve', ipa: '/prɪˈzɜːv/', pos: 'v.', lvl: 'C1', cn: '保存；保鲜', def: 'to keep something in good condition for a long time', col: '~ texture / food', q: 'to help to preserve its texture' }
     ],
     syntax: [
       {
@@ -47,12 +47,12 @@ window.EXTRA = {
   /* ---------- 2 Beavers ---------- */
   p02: {
     vocab: [
-      { w: 'sighting', pos: 'n.', lvl: 'C1', cn: '目击；看到', def: 'an occasion when someone sees something rare or unusual', col: 'recorded ~s', q: 'no recorded sightings' },
-      { w: 'survive', pos: 'v.', lvl: 'B2', cn: '存活；幸存', def: 'to continue to live or exist', col: '~ until / ~ in', q: 'a few beavers survived until' },
-      { w: 'affordable', pos: 'adj.', lvl: 'B2', cn: '负担得起的', def: 'cheap enough for most people to buy', col: 'more ~ / ~ price', q: 'were more affordable' },
-      { w: 'proposal', pos: 'n.', lvl: 'C1', cn: '提案；计划', def: 'a formal plan or suggestion', col: 'submit a ~', q: 'a proposal to submit' },
-      { w: 'grant', pos: 'v.', lvl: 'C1', cn: '授予；批准', def: 'to officially give or allow something', col: 'permission is granted', q: 'after permission was granted' },
-      { w: 'block', pos: 'v.', lvl: 'B2', cn: '堵塞；阻挡', def: 'to stop something from moving through', col: '~ a river / pipe', q: 'the beavers’ habit of blocking rivers' }
+      { w: 'sighting', ipa: '/ˈsaɪtɪŋ/', pos: 'n.', lvl: 'C1', cn: '目击；看到', def: 'an occasion when someone sees something rare or unusual', col: 'recorded ~s', q: 'no recorded sightings' },
+      { w: 'survive', ipa: '/səˈvaɪv/', pos: 'v.', lvl: 'B2', cn: '存活；幸存', def: 'to continue to live or exist', col: '~ until / ~ in', q: 'a few beavers survived until' },
+      { w: 'affordable', ipa: '/əˈfɔːdəbl/', pos: 'adj.', lvl: 'B2', cn: '负担得起的', def: 'cheap enough for most people to buy', col: 'more ~ / ~ price', q: 'were more affordable' },
+      { w: 'proposal', ipa: '/prəˈpəʊzl/', pos: 'n.', lvl: 'C1', cn: '提案；计划', def: 'a formal plan or suggestion', col: 'submit a ~', q: 'a proposal to submit' },
+      { w: 'grant', ipa: '/ɡrɑːnt/', pos: 'v.', lvl: 'C1', cn: '授予；批准', def: 'to officially give or allow something', col: 'permission is granted', q: 'after permission was granted' },
+      { w: 'block', ipa: '/blɒk/', pos: 'v.', lvl: 'B2', cn: '堵塞；阻挡', def: 'to stop something from moving through', col: '~ a river / pipe', q: 'the beavers’ habit of blocking rivers' }
     ],
     syntax: [
       {
@@ -86,12 +86,12 @@ window.EXTRA = {
   /* ---------- 3 A message from the past ---------- */
   p03: {
     vocab: [
-      { w: 'uncover', pos: 'v.', lvl: 'C1', cn: '使露出；发现', def: 'to discover something that was hidden or covered', col: '~ a secret / the truth', q: 'a huge storm had most likely uncovered it' },
-      { w: 'examine', pos: 'v.', lvl: 'B2', cn: '检查；检验', def: 'to look at something carefully', col: 'carefully ~ sth', q: 'After carefully examining the form' },
-      { w: 'handwriting', pos: 'n.', lvl: 'B2', cn: '笔迹；字迹', def: 'the way a particular person writes with a pen', col: 'sb’s ~', q: 'the captain’s handwriting in the diary' },
-      { w: 'conduct', pos: 'v.', lvl: 'C1', cn: '进行（试验、调查）', def: 'to organise and carry out a particular activity', col: '~ tests / research', q: 'were conducting tests' },
-      { w: 'experiment', pos: 'n.', lvl: 'B2', cn: '实验', def: 'a scientific test done to find out something', col: 'carry out an ~', q: 'The experiment lasted 69 years' },
-      { w: 'contents', pos: 'n.', lvl: 'C1', cn: '（容器内的）东西', def: 'the things that are inside something', col: 'the ~ of a bottle', q: 'the bottle and its contents' }
+      { w: 'uncover', ipa: '/ʌnˈkʌvə/', pos: 'v.', lvl: 'C1', cn: '使露出；发现', def: 'to discover something that was hidden or covered', col: '~ a secret / the truth', q: 'a huge storm had most likely uncovered it' },
+      { w: 'examine', ipa: '/ɪɡˈzæmɪn/', pos: 'v.', lvl: 'B2', cn: '检查；检验', def: 'to look at something carefully', col: 'carefully ~ sth', q: 'After carefully examining the form' },
+      { w: 'handwriting', ipa: '/ˈhændraɪtɪŋ/', pos: 'n.', lvl: 'B2', cn: '笔迹；字迹', def: 'the way a particular person writes with a pen', col: 'sb’s ~', q: 'the captain’s handwriting in the diary' },
+      { w: 'conduct', ipa: '/kənˈdʌkt/', pos: 'v.', lvl: 'C1', cn: '进行（试验、调查）', def: 'to organise and carry out a particular activity', col: '~ tests / research', q: 'were conducting tests' },
+      { w: 'experiment', ipa: '/ɪkˈsperɪmənt/', pos: 'n.', lvl: 'B2', cn: '实验', def: 'a scientific test done to find out something', col: 'carry out an ~', q: 'The experiment lasted 69 years' },
+      { w: 'contents', ipa: '/ˈkɒntents/', pos: 'n.', lvl: 'C1', cn: '（容器内的）东西', def: 'the things that are inside something', col: 'the ~ of a bottle', q: 'the bottle and its contents' }
     ],
     syntax: [
       {
@@ -123,12 +123,12 @@ window.EXTRA = {
   /* ---------- 4 A dinosaur expert ---------- */
   p04: {
     vocab: [
-      { w: 'asteroid', pos: 'n.', lvl: 'C1', cn: '小行星', def: 'a large rock that travels around the sun', col: 'an ~ crashed into Earth', q: 'a huge asteroid crashed into Earth' },
-      { w: 'environmental', pos: 'adj.', lvl: 'B2', cn: '环境的', def: 'relating to the natural world', col: '~ damage / destruction', q: 'massive environmental destruction' },
-      { w: 'colleague', pos: 'n.', lvl: 'B2', cn: '同事', def: 'a person you work with', col: 'a ~ of mine', q: 'he and two colleagues' },
-      { w: 'feather', pos: 'n.', lvl: 'B2', cn: '羽毛', def: 'one of the light soft things that cover a bird', col: 'be covered in ~s', q: 'many were covered in feathers' },
-      { w: 'entertainment', pos: 'n.', lvl: 'B2', cn: '娱乐；消遣', def: 'things that amuse or interest people', col: 'excellent ~', q: 'the films are excellent entertainment' },
-      { w: 'career', pos: 'n.', lvl: 'B2', cn: '职业；事业', def: 'the job or series of jobs you do in your life', col: 'a ~ in / develop into a ~', q: 'developing their interest into a career' }
+      { w: 'asteroid', ipa: '/ˈæstərɔɪd/', pos: 'n.', lvl: 'C1', cn: '小行星', def: 'a large rock that travels around the sun', col: 'an ~ crashed into Earth', q: 'a huge asteroid crashed into Earth' },
+      { w: 'environmental', ipa: '/ɪnˌvaɪrənˈmentl/', pos: 'adj.', lvl: 'B2', cn: '环境的', def: 'relating to the natural world', col: '~ damage / destruction', q: 'massive environmental destruction' },
+      { w: 'colleague', ipa: '/ˈkɒliːɡ/', pos: 'n.', lvl: 'B2', cn: '同事', def: 'a person you work with', col: 'a ~ of mine', q: 'he and two colleagues' },
+      { w: 'feather', ipa: '/ˈfeðə/', pos: 'n.', lvl: 'B2', cn: '羽毛', def: 'one of the light soft things that cover a bird', col: 'be covered in ~s', q: 'many were covered in feathers' },
+      { w: 'entertainment', ipa: '/ˌentəˈteɪnmənt/', pos: 'n.', lvl: 'B2', cn: '娱乐；消遣', def: 'things that amuse or interest people', col: 'excellent ~', q: 'the films are excellent entertainment' },
+      { w: 'career', ipa: '/kəˈrɪə/', pos: 'n.', lvl: 'B2', cn: '职业；事业', def: 'the job or series of jobs you do in your life', col: 'a ~ in / develop into a ~', q: 'developing their interest into a career' }
     ],
     syntax: [
       {
@@ -161,12 +161,12 @@ window.EXTRA = {
   /* ---------- 5 Icehotel ---------- */
   p05: {
     vocab: [
-      { w: 'sculpture', pos: 'n.', lvl: 'B2', cn: '雕塑（品）', def: 'a work of art made from stone, wood, ice, etc.', col: 'ice ~s', q: 'surrounded by spectacular ice sculptures' },
-      { w: 'charge', pos: 'v.', lvl: 'B2', cn: '充电', def: 'to put electricity into a battery', col: 'fully ~ a phone', q: 'fully charge their phones' },
-      { w: 'opportunity', pos: 'n.', lvl: 'B2', cn: '机会', def: 'a situation that makes it possible to do something', col: 'see an ~ to do', q: 'saw an opportunity to attract tourists' },
-      { w: 'freeze', pos: 'v.', lvl: 'B2', cn: '结冰；冻结', def: 'to become hard and solid because of cold', col: 'the river freezes', q: 'the river freezes into ice' },
-      { w: 'storage', pos: 'n.', lvl: 'C1', cn: '储存；存放', def: 'the act of keeping something until it is needed', col: 'cold ~', q: 'kept in cold storage' },
-      { w: 'safari', pos: 'n.', lvl: 'C1', cn: '（乘车）观赏之旅', def: 'a trip to watch wild animals', col: 'a snowmobile ~', q: 'a snowmobile safari' }
+      { w: 'sculpture', ipa: '/ˈskʌlptʃə/', pos: 'n.', lvl: 'B2', cn: '雕塑（品）', def: 'a work of art made from stone, wood, ice, etc.', col: 'ice ~s', q: 'surrounded by spectacular ice sculptures' },
+      { w: 'charge', ipa: '/tʃɑːdʒ/', pos: 'v.', lvl: 'B2', cn: '充电', def: 'to put electricity into a battery', col: 'fully ~ a phone', q: 'fully charge their phones' },
+      { w: 'opportunity', ipa: '/ˌɒpəˈtjuːnəti/', pos: 'n.', lvl: 'B2', cn: '机会', def: 'a situation that makes it possible to do something', col: 'see an ~ to do', q: 'saw an opportunity to attract tourists' },
+      { w: 'freeze', ipa: '/friːz/', pos: 'v.', lvl: 'B2', cn: '结冰；冻结', def: 'to become hard and solid because of cold', col: 'the river freezes', q: 'the river freezes into ice' },
+      { w: 'storage', ipa: '/ˈstɔːrɪdʒ/', pos: 'n.', lvl: 'C1', cn: '储存；存放', def: 'the act of keeping something until it is needed', col: 'cold ~', q: 'kept in cold storage' },
+      { w: 'safari', ipa: '/səˈfɑːri/', pos: 'n.', lvl: 'C1', cn: '（乘车）观赏之旅', def: 'a trip to watch wild animals', col: 'a snowmobile ~', q: 'a snowmobile safari' }
     ],
     syntax: [
       {
@@ -199,12 +199,12 @@ window.EXTRA = {
   /* ---------- 6 Percy Spencer ---------- */
   p06: {
     vocab: [
-      { w: 'only child', pos: 'n.', lvl: 'B2', cn: '独生子女', def: 'a child who has no brothers or sisters', col: 'an ~', q: 'He was an only child' },
-      { w: 'advertise', pos: 'v.', lvl: 'B2', cn: '登广告（招聘）', def: 'to tell people about a job or product publicly', col: '~ for sb', q: 'the paper mill advertised for people' },
-      { w: 'apply', pos: 'v.', lvl: 'B2', cn: '申请', def: 'to formally ask for a job or a place', col: '~ for a job', q: 'Spencer applied and got the job' },
-      { w: 'guard', pos: 'v.', lvl: 'C1', cn: '守卫；看守', def: 'to protect a place or person', col: '~ a base / building', q: 'while guarding the navy base' },
-      { w: 'melt', pos: 'v.', lvl: 'B2', cn: '融化', def: 'to become liquid because of heat', col: 'the chocolate melted', q: 'the candy bar in his pocket had melted' },
-      { w: 'put off', pos: 'phr. v.', lvl: 'C1', cn: '使打消念头；使反感', def: 'to make someone not want to do something', col: 'be put off doing sth', q: 'many people were put off buying them' }
+      { w: 'only child', ipa: '/ˌəʊnli ˈtʃaɪld/', pos: 'n.', lvl: 'B2', cn: '独生子女', def: 'a child who has no brothers or sisters', col: 'an ~', q: 'He was an only child' },
+      { w: 'advertise', ipa: '/ˈædvətaɪz/', pos: 'v.', lvl: 'B2', cn: '登广告（招聘）', def: 'to tell people about a job or product publicly', col: '~ for sb', q: 'the paper mill advertised for people' },
+      { w: 'apply', ipa: '/əˈplaɪ/', pos: 'v.', lvl: 'B2', cn: '申请', def: 'to formally ask for a job or a place', col: '~ for a job', q: 'Spencer applied and got the job' },
+      { w: 'guard', ipa: '/ɡɑːd/', pos: 'v.', lvl: 'C1', cn: '守卫；看守', def: 'to protect a place or person', col: '~ a base / building', q: 'while guarding the navy base' },
+      { w: 'melt', ipa: '/melt/', pos: 'v.', lvl: 'B2', cn: '融化', def: 'to become liquid because of heat', col: 'the chocolate melted', q: 'the candy bar in his pocket had melted' },
+      { w: 'put off', ipa: '/ˌpʊt ˈɒf/', pos: 'phr. v.', lvl: 'C1', cn: '使打消念头；使反感', def: 'to make someone not want to do something', col: 'be put off doing sth', q: 'many people were put off buying them' }
     ],
     syntax: [
       {
@@ -236,12 +236,12 @@ window.EXTRA = {
   /* ---------- 7 Ancient rock art ---------- */
   p07: {
     vocab: [
-      { w: 'settle', pos: 'v.', lvl: 'C1', cn: '定居；安顿', def: 'to start living permanently in a place', col: '~ in a region', q: 'humans first settled in the region' },
-      { w: 'pattern', pos: 'n.', lvl: 'B2', cn: '图案；纹样', def: 'a repeated design or shape', col: 'abstract ~s', q: 'animals and abstract patterns' },
-      { w: 'indicate', pos: 'v.', lvl: 'C1', cn: '表明；显示', def: 'to show that something is true', col: 'This ~s that …', q: 'This indicates that the region' },
-      { w: 'trek', pos: 'n.', lvl: 'C1', cn: '长途跋涉', def: 'a long and difficult walk', col: 'a four-hour ~', q: 'a four-hour trek through the jungle' },
-      { w: 'remains', pos: 'n.', lvl: 'C1', cn: '遗迹；残骸', def: 'the parts of something that are left', col: 'the ~ of sth', q: 'the remains of ropes' },
-      { w: 'clue', pos: 'n.', lvl: 'B2', cn: '线索', def: 'a piece of information that helps solve a problem', col: 'a ~ to sth', q: 'There are clues in a few paintings' }
+      { w: 'settle', ipa: '/ˈsetl/', pos: 'v.', lvl: 'C1', cn: '定居；安顿', def: 'to start living permanently in a place', col: '~ in a region', q: 'humans first settled in the region' },
+      { w: 'pattern', ipa: '/ˈpætn/', pos: 'n.', lvl: 'B2', cn: '图案；纹样', def: 'a repeated design or shape', col: 'abstract ~s', q: 'animals and abstract patterns' },
+      { w: 'indicate', ipa: '/ˈɪndɪkeɪt/', pos: 'v.', lvl: 'C1', cn: '表明；显示', def: 'to show that something is true', col: 'This ~s that …', q: 'This indicates that the region' },
+      { w: 'trek', ipa: '/trek/', pos: 'n.', lvl: 'C1', cn: '长途跋涉', def: 'a long and difficult walk', col: 'a four-hour ~', q: 'a four-hour trek through the jungle' },
+      { w: 'remains', ipa: '/rɪˈmeɪnz/', pos: 'n.', lvl: 'C1', cn: '遗迹；残骸', def: 'the parts of something that are left', col: 'the ~ of sth', q: 'the remains of ropes' },
+      { w: 'clue', ipa: '/kluː/', pos: 'n.', lvl: 'B2', cn: '线索', def: 'a piece of information that helps solve a problem', col: 'a ~ to sth', q: 'There are clues in a few paintings' }
     ],
     syntax: [
       {
@@ -273,12 +273,12 @@ window.EXTRA = {
   /* ---------- 8 Photography for Teens ---------- */
   p08: {
     vocab: [
-      { w: 'explore', pos: 'v.', lvl: 'B2', cn: '探索；尝试', def: 'to try different ways of doing something', col: '~ how to do sth', q: 'you will explore how to take' },
-      { w: 'appeal to', pos: 'phr. v.', lvl: 'C1', cn: '对……有吸引力', def: 'to be attractive or interesting to someone', col: '~ sb / ~ students', q: 'What tends to appeal to students above all' },
-      { w: 'portrait', pos: 'n.', lvl: 'B2', cn: '肖像（照）', def: 'a photograph or painting of a person', col: '~ photography', q: 'is portrait photography' },
-      { w: 'equipment', pos: 'n.', lvl: 'B2', cn: '设备；器材', def: 'the tools or machines needed for an activity', col: 'photographic ~', q: 'the equipment photographers use' },
-      { w: 'studio', pos: 'n.', lvl: 'B2', cn: '工作室；摄影棚', def: 'a room where an artist or photographer works', col: 'in the ~', q: 'back in the studio at college' },
-      { w: 'fee', pos: 'n.', lvl: 'B2', cn: '费用；学费', def: 'money paid for a service or a course', col: 'the course ~', q: 'included in the course fee' }
+      { w: 'explore', ipa: '/ɪkˈsplɔː/', pos: 'v.', lvl: 'B2', cn: '探索；尝试', def: 'to try different ways of doing something', col: '~ how to do sth', q: 'you will explore how to take' },
+      { w: 'appeal to', ipa: '/əˈpiːl tə/', pos: 'phr. v.', lvl: 'C1', cn: '对……有吸引力', def: 'to be attractive or interesting to someone', col: '~ sb / ~ students', q: 'What tends to appeal to students above all' },
+      { w: 'portrait', ipa: '/ˈpɔːtreɪt/', pos: 'n.', lvl: 'B2', cn: '肖像（照）', def: 'a photograph or painting of a person', col: '~ photography', q: 'is portrait photography' },
+      { w: 'equipment', ipa: '/ɪˈkwɪpmənt/', pos: 'n.', lvl: 'B2', cn: '设备；器材', def: 'the tools or machines needed for an activity', col: 'photographic ~', q: 'the equipment photographers use' },
+      { w: 'studio', ipa: '/ˈstjuːdiəʊ/', pos: 'n.', lvl: 'B2', cn: '工作室；摄影棚', def: 'a room where an artist or photographer works', col: 'in the ~', q: 'back in the studio at college' },
+      { w: 'fee', ipa: '/fiː/', pos: 'n.', lvl: 'B2', cn: '费用；学费', def: 'money paid for a service or a course', col: 'the course ~', q: 'included in the course fee' }
     ],
     syntax: [
       {
@@ -310,12 +310,12 @@ window.EXTRA = {
   /* ---------- 9 Zebras ---------- */
   p09: {
     vocab: [
-      { w: 'unique', pos: 'adj.', lvl: 'B2', cn: '独一无二的', def: 'being the only one of its kind', col: 'be ~ to sb/sth', q: 'the striped pattern of each zebra is unique' },
-      { w: 'behave', pos: 'v.', lvl: 'B2', cn: '表现；行动', def: 'to do things in a particular way', col: '~ around sb', q: 'how flies behaved around the zebras' },
-      { w: 'approach', pos: 'v.', lvl: 'C1', cn: '接近；靠近', def: 'to come nearer to someone or something', col: '~ an animal', q: 'insects approaching these animals' },
-      { w: 'prevent', pos: 'v.', lvl: 'B2', cn: '阻止；防止', def: 'to stop something from happening', col: '~ sb from doing sth', q: 'prevent them from being bitten' },
-      { w: 'interruption', pos: 'n.', lvl: 'C1', cn: '打扰；中断', def: 'an occasion when something stops temporarily', col: 'without ~', q: 'feed without interruption' },
-      { w: 'occur to', pos: 'phr. v.', lvl: 'C1', cn: '（想法）浮现在脑中', def: 'if an idea occurs to you, you suddenly think of it', col: 'it occurs to sb that …', q: 'had never occurred to me before' }
+      { w: 'unique', ipa: '/juˈniːk/', pos: 'adj.', lvl: 'B2', cn: '独一无二的', def: 'being the only one of its kind', col: 'be ~ to sb/sth', q: 'the striped pattern of each zebra is unique' },
+      { w: 'behave', ipa: '/bɪˈheɪv/', pos: 'v.', lvl: 'B2', cn: '表现；行动', def: 'to do things in a particular way', col: '~ around sb', q: 'how flies behaved around the zebras' },
+      { w: 'approach', ipa: '/əˈprəʊtʃ/', pos: 'v.', lvl: 'C1', cn: '接近；靠近', def: 'to come nearer to someone or something', col: '~ an animal', q: 'insects approaching these animals' },
+      { w: 'prevent', ipa: '/prɪˈvent/', pos: 'v.', lvl: 'B2', cn: '阻止；防止', def: 'to stop something from happening', col: '~ sb from doing sth', q: 'prevent them from being bitten' },
+      { w: 'interruption', ipa: '/ˌɪntəˈrʌpʃn/', pos: 'n.', lvl: 'C1', cn: '打扰；中断', def: 'an occasion when something stops temporarily', col: 'without ~', q: 'feed without interruption' },
+      { w: 'occur to', ipa: '/əˈkɜː tə/', pos: 'phr. v.', lvl: 'C1', cn: '（想法）浮现在脑中', def: 'if an idea occurs to you, you suddenly think of it', col: 'it occurs to sb that …', q: 'had never occurred to me before' }
     ],
     syntax: [
       {
@@ -346,12 +346,12 @@ window.EXTRA = {
   /* ---------- 10 Shelly Downley ---------- */
   p10: {
     vocab: [
-      { w: 'develop an interest in', pos: 'phr.', lvl: 'B2', cn: '培养出对……的兴趣', def: 'to gradually start to be interested in something', col: '~ sth', q: 'She developed an interest in skateboarding' },
-      { w: 'helmet', pos: 'n.', lvl: 'B2', cn: '头盔', def: 'a hard hat that protects your head', col: 'wear a ~', q: 'the need to wear a helmet' },
-      { w: 'medal', pos: 'n.', lvl: 'B2', cn: '奖牌', def: 'a metal disc given as a prize', col: 'win a ~', q: 'she got a special medal' },
-      { w: 'title', pos: 'n.', lvl: 'C1', cn: '冠军称号', def: 'the position of being the winner of a competition', col: 'hold a ~', q: 'she held three competition titles' },
-      { w: 'upload', pos: 'v.', lvl: 'C1', cn: '上传', def: 'to move data to the internet', col: '~ videos to a blog', q: 'Shelly uploaded some video clips' },
-      { w: 'progress', pos: 'n.', lvl: 'B2', cn: '进步；进展', def: 'improvement or development', col: 'make ~', q: 'helped her make progress' }
+      { w: 'develop an interest in', ipa: '/dɪˈveləp ən ˈɪntrəst ɪn/', pos: 'phr.', lvl: 'B2', cn: '培养出对……的兴趣', def: 'to gradually start to be interested in something', col: '~ sth', q: 'She developed an interest in skateboarding' },
+      { w: 'helmet', ipa: '/ˈhelmɪt/', pos: 'n.', lvl: 'B2', cn: '头盔', def: 'a hard hat that protects your head', col: 'wear a ~', q: 'the need to wear a helmet' },
+      { w: 'medal', ipa: '/ˈmedl/', pos: 'n.', lvl: 'B2', cn: '奖牌', def: 'a metal disc given as a prize', col: 'win a ~', q: 'she got a special medal' },
+      { w: 'title', ipa: '/ˈtaɪtl/', pos: 'n.', lvl: 'C1', cn: '冠军称号', def: 'the position of being the winner of a competition', col: 'hold a ~', q: 'she held three competition titles' },
+      { w: 'upload', ipa: '/ˌʌpˈləʊd/', pos: 'v.', lvl: 'C1', cn: '上传', def: 'to move data to the internet', col: '~ videos to a blog', q: 'Shelly uploaded some video clips' },
+      { w: 'progress', ipa: '/ˈprəʊɡres/', pos: 'n.', lvl: 'B2', cn: '进步；进展', def: 'improvement or development', col: 'make ~', q: 'helped her make progress' }
     ],
     syntax: [
       {
@@ -383,12 +383,12 @@ window.EXTRA = {
   /* ---------- 11 Zookeeper ---------- */
   p11: {
     vocab: [
-      { w: 'brief', pos: 'adj.', lvl: 'B2', cn: '简短的', def: 'lasting only a short time', col: 'a ~ meeting', q: 'It’s always brief' },
-      { w: 'relevant', pos: 'adj.', lvl: 'C1', cn: '相关的', def: 'closely connected with the subject', col: '~ information / updates', q: 'we’re given relevant updates' },
-      { w: 'patience', pos: 'n.', lvl: 'B2', cn: '耐心', def: 'the ability to wait calmly without getting annoyed', col: 'need ~', q: 'so you need patience' },
-      { w: 'mental', pos: 'adj.', lvl: 'B2', cn: '心理的；精神的', def: 'relating to the mind', col: '~ health', q: 'their mental health is important too' },
-      { w: 'breeding', pos: 'n.', lvl: 'C1', cn: '繁殖；饲养', def: 'the process of keeping animals so they produce young', col: 'a ~ programme', q: 'a breeding programme' },
-      { w: 'volunteer', pos: 'v.', lvl: 'C1', cn: '自愿做；做志愿者', def: 'to offer to do something without being paid', col: '~ at a zoo', q: 'she was volunteering at her local zoo' }
+      { w: 'brief', ipa: '/briːf/', pos: 'adj.', lvl: 'B2', cn: '简短的', def: 'lasting only a short time', col: 'a ~ meeting', q: 'It’s always brief' },
+      { w: 'relevant', ipa: '/ˈreləvənt/', pos: 'adj.', lvl: 'C1', cn: '相关的', def: 'closely connected with the subject', col: '~ information / updates', q: 'we’re given relevant updates' },
+      { w: 'patience', ipa: '/ˈpeɪʃns/', pos: 'n.', lvl: 'B2', cn: '耐心', def: 'the ability to wait calmly without getting annoyed', col: 'need ~', q: 'so you need patience' },
+      { w: 'mental', ipa: '/ˈmentl/', pos: 'adj.', lvl: 'B2', cn: '心理的；精神的', def: 'relating to the mind', col: '~ health', q: 'their mental health is important too' },
+      { w: 'breeding', ipa: '/ˈbriːdɪŋ/', pos: 'n.', lvl: 'C1', cn: '繁殖；饲养', def: 'the process of keeping animals so they produce young', col: 'a ~ programme', q: 'a breeding programme' },
+      { w: 'volunteer', ipa: '/ˌvɒlənˈtɪə/', pos: 'v.', lvl: 'C1', cn: '自愿做；做志愿者', def: 'to offer to do something without being paid', col: '~ at a zoo', q: 'she was volunteering at her local zoo' }
     ],
     syntax: [
       {

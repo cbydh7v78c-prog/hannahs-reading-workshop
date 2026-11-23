@@ -3,6 +3,8 @@
 剑桥 IGCSE ESL **0511 / 0510 Reading Exercise 1** 真题精讲网站。
 左栏原文 + 右栏题目，答案句用彩色高亮定位，配套 **B2–C1 词汇**与**长难句拆解**。
 
+**在线访问：<https://cbydh7v78c-prog.github.io/hannahs-reading-workshop/>**
+
 ## 内容范围
 
 Booklet 第 1–21 页，共 11 篇、99 题、143 分：
@@ -66,6 +68,14 @@ git push -u origin main
 
 然后在仓库 **Settings → Pages** 中选择 `Deploy from a branch` → `main` / `/ (root)`。
 仓库已包含 `.nojekyll`，避免 Jekyll 处理静态资源。
+
+如果本机网络无法直连 `github.com:443`（`git push` 报 `Empty reply` 或 `CONNECT tunnel failed`），但 `api.github.com` 可达，可用 API 方式发布（不需要 git 传输层）：
+
+```bash
+GH_TOKEN=<classic PAT，勾 repo> node tools/deploy-api.mjs
+```
+
+它会用 Git Data API 提交整个文件树、开启 Pages，并轮询到构建完成后实测首页与资源状态码。发布后记得把 token 从 `.git/config` 和终端历史里清掉。
 
 ## 目录结构
 
